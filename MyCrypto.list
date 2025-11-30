@@ -1,0 +1,26 @@
+# 自定义广告拦截补充列表
+
+# 域名顶级后缀匹配
+DOMAIN-SUFFIX,bycsi.com
+DOMAIN-SUFFIX,bytick.com
+DOMAIN-SUFFIX,byapis.com
+DOMAIN-SUFFIX,bycbe.com
+DOMAIN-SUFFIX,bymj.io
+DOMAIN-SUFFIX,byabcde.com
+DOMAIN-SUFFIX,byapps.net
+DOMAIN-SUFFIX,byd3c3.com
+DOMAIN-SUFFIX,bybit.biz
+DOMAIN-SUFFIX,bybdc6.com
+DOMAIN-SUFFIX,bybit-global.com
+DOMAIN-SUFFIX,bybit.cloud
+DOMAIN-SUFFIX,bybitglobal.com
+DOMAIN-SUFFIX,ada.support
+
+# 域名后缀匹配
+#DOMAIN,speed.cloudflare.com
+
+# 域名关键字匹配
+#DOMAIN-KEYWORD,baidu
+
+# IP段匹配
+#IP-CIDR,219.146.1.66/32,no-resolve
