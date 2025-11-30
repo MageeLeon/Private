@@ -1,3 +1,6 @@
+# 自定义检查补充列表
+
+# 域名后缀匹配
 DOMAIN-SUFFIX,vultr.com
 DOMAIN-SUFFIX,test-ipv6.com
 DOMAIN-SUFFIX,ipw.cn
@@ -48,7 +51,9 @@ DOMAIN-SUFFIX,ip2proxy.com
 DOMAIN-SUFFIX,vpnapi.io
 DOMAIN-SUFFIX,l.google.com
 
+# 域名关键字匹配
 DOMAIN,speed.cloudflare.com
 
+# IP段匹配
 IP-CIDR,74.125.250.129/24,no-resolve
 IP-CIDR,142.251.215.0/24,no-resolve
