@@ -1,13 +1,6 @@
 # 自定义国外补充列表
 
 # 域名顶级后缀匹配
-DOMAIN-SUFFIX,hk-hkg.doh.sb
-DOMAIN-SUFFIX,googleapis.com
-DOMAIN-SUFFIX,googleapis.cn
-DOMAIN-SUFFIX,gstatic.com
-DOMAIN-SUFFIX,signalr.net
-DOMAIN-SUFFIX,tiny-vps.com
-DOMAIN-SUFFIX,zemoj.com
 DOMAIN-SUFFIX,code2chicken.nl
 DOMAIN-SUFFIX,rarbg.to
 DOMAIN-SUFFIX,gbitt.info
