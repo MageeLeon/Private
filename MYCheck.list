@@ -55,7 +55,7 @@ DOMAIN-SUFFIX,l.google.com
 DOMAIN,speed.cloudflare.com
 
 # 域名关键字匹配
-#
+#DOMAIN-KEYWORD,openai
 
 # IP段匹配
 IP-CIDR,74.125.250.129/24,no-resolve
