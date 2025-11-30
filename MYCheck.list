@@ -1,6 +1,6 @@
 # 自定义检查补充列表
 
-# 域名后缀匹配
+# 域名顶级后缀匹配
 DOMAIN-SUFFIX,vultr.com
 DOMAIN-SUFFIX,test-ipv6.com
 DOMAIN-SUFFIX,ipw.cn
@@ -51,7 +51,7 @@ DOMAIN-SUFFIX,ip2proxy.com
 DOMAIN-SUFFIX,vpnapi.io
 DOMAIN-SUFFIX,l.google.com
 
-# 域名顶级后缀匹配
+# 域名后缀匹配
 #DOMAIN,speed.cloudflare.com
 
 # 域名关键字匹配
