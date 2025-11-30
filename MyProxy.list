@@ -1,6 +1,6 @@
 # 自定义国外补充列表
 
-# 域名后缀匹配
+# 域名顶级后缀匹配
 DOMAIN-SUFFIX,fastlydns.net
 DOMAIN-SUFFIX,dns.google
 DOMAIN-SUFFIX,1dot1dot1dot1.cloudflare-dns.com
@@ -142,7 +142,7 @@ DOMAIN-SUFFIX,coincola.com
 DOMAIN-SUFFIX,coincolacdn.com
 DOMAIN-SUFFIX,colaotc.com
 
-# 域名顶级后缀匹配
+# 域名后缀匹配
 #DOMAIN,speed.cloudflare.com
 
 # 域名关键字匹配
