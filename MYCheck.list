@@ -51,6 +51,9 @@ DOMAIN-SUFFIX,ip2proxy.com
 DOMAIN-SUFFIX,vpnapi.io
 DOMAIN-SUFFIX,l.google.com
 
+DOMAIN-SUFFIX,ping0.cc
+DOMAIN-SUFFIX,ipdata.co
+
 # 域名后缀匹配
 #DOMAIN,speed.cloudflare.com
 
