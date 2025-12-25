@@ -72,6 +72,9 @@ DOMAIN-SUFFIX,024fang.cn
 DOMAIN-SUFFIX,qujishou.com
 DOMAIN-SUFFIX,jishouqu.com
 DOMAIN-SUFFIX,maimaiqu.com
+DOMAIN-SUFFIX,suourl.link
+DOMAIN-SUFFIX,suolink.link
+DOMAIN-SUFFIX,suogo.link
 
 # 域名后缀匹配
 #DOMAIN,speed.cloudflare.com
