@@ -9,6 +9,14 @@ DOMAIN-SUFFIX,bortzmeyer.org
 DOMAIN-SUFFIX,difyai.com
 DOMAIN-SUFFIX,genspark.ai
 
+DOMAIN-SUFFIX,meta.ai
+DOMAIN-SUFFIX,metademolab.com
+DOMAIN-SUFFIX,genspark.ai
+DOMAIN-SUFFIX,manus.im
+DOMAIN-SUFFIX,skywork.ai
+
+DOMAIN-SUFFIX,perplexity.ai
+
 # 域名后缀匹配
 #DOMAIN,copilot.microsoft.com
 
