@@ -19,11 +19,13 @@ DOMAIN-SUFFIX,appsflyer.com,新加坡-故障转移 #bybit交易所
 DOMAIN-SUFFIX,bybit.cloud,新加坡-故障转移 #bybit交易所
 DOMAIN-SUFFIX,bybitglobal.com,新加坡-故障转移 #bybit交易所
 DOMAIN-SUFFIX,jbybit.com,新加坡-故障转移 #bybit交易所
+
 DOMAIN-SUFFIX,ada.support,新加坡-故障转移 #bybit交易所客服系统
 
 # 域名后缀匹配
 DOMAIN,bybit-exchange.github.io,新加坡-故障转移 #bybit交易所
 DOMAIN,app-measurement.com,新加坡-故障转移 #bybit交易所
+DOMAIN,bybit.ada.support,新加坡-故障转移 #bybit交易所
 
 # 域名关键字匹配
 #DOMAIN-KEYWORD,baidu
