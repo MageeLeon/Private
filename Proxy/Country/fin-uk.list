@@ -12,6 +12,8 @@ DOMAIN-SUFFIX,entsrv-uk.vodafone.com
 DOMAIN-SUFFIX,vuk-gto.prod.ondemandconnectivity.com
 #UK-wifi-call CTE
 DOMAIN-SUFFIX,ee.co.uk
+#Wise
+DOMAIN-SUFFIX,wise.com
 
 # 域名后缀匹配
 #UK-wifi-call VOXI
