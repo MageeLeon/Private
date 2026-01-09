@@ -1,11 +1,10 @@
 # 自定义数字货币补充列表
 
 # 域名顶级后缀匹配
-#DOMAIN-SUFFIX,bycsi.com #OKX
+#DOMAIN-SUFFIX,bycsi.com
 
 # 域名后缀匹配
 DOMAIN,api.onesignal.com
-DOMAIN,www.okx.com.cdn.cloudflare.net
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,d1nil3qbkxfj92
