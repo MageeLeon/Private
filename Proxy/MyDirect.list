@@ -1,6 +1,7 @@
 # 自定义白名单补充列表
 
 # 域名顶级后缀匹配
+#德国n26
 DOMAIN-SUFFIX,liveperson.net
 DOMAIN-SUFFIX,lpsnmedia.net
 
