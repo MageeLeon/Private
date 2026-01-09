@@ -7,8 +7,6 @@ DOMAIN-SUFFIX,monzo-alt.net
 DOMAIN-SUFFIX,api.monzo.co.uk
 DOMAIN-SUFFIX,monzo-bank.co.uk
 DOMAIN-SUFFIX,getmonzo.co.uk
-#UK-wifi-call 地区检测
-DOMAIN-SUFFIX,gspe1-ssl.ls.apple.com
 #UK-wifi-call 沃达丰
 DOMAIN-SUFFIX,entsrv-uk.vodafone.com
 DOMAIN-SUFFIX,vuk-gto.prod.ondemandconnectivity.com
