@@ -22,7 +22,7 @@ DOMAIN-KEYWORD,mcc234,英国-故障转移 #UK-wifi-call地区检测
 
 # IP段匹配
 IP-CIDR,88.82.0.0/19,英国-故障转移,no-resolve #UK-wifi-call沃达丰VOXI
-IP-CIDR,148.252.160.0/19,英国-故障转移,no-resolve #UK-wifi-call 沃达丰
-IP-CIDR,46.68.0.0/17,英国-故障转移,no-resolve #UK-wifi-call CMLinkUKEE
+IP-CIDR,148.252.160.0/19,英国-故障转移,no-resolve #UK-wifi-call沃达丰
+IP-CIDR,46.68.0.0/17,英国-故障转移,no-resolve #UK-wifi-callCMLinkUKEE
 IP-CIDR,87.194.0.0/16,英国-故障转移,no-resolve #UK-wifi-callGiffgaff
 IP-CIDR,31.94.0.0/16,英国-故障转移,no-resolve #UK-wifi-callCTE
