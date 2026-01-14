@@ -6,6 +6,7 @@ DOMAIN-SUFFIX,liveperson.net
 DOMAIN-SUFFIX,lpsnmedia.net
 DOMAIN-SUFFIX,featureassets.org
 DOMAIN-SUFFIX,idp.liveperson.net
+DOMAIN-SUFFIX,lo.idp.liveperson.net
 
 # 域名后缀匹配
 #DOMAIN,speed.cloudflare.com
