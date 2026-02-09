@@ -1,7 +1,7 @@
 # 国家-英国补充列表https://raw.githubusercontent.com/iniwex5/tools/refs/heads/main/rules/UK-wifi-call.list
 
 # 域名顶级后缀匹配
-#英国monzo
+#Monzo
 DOMAIN-SUFFIX,monzo.com
 DOMAIN-SUFFIX,monzo-alt.net
 DOMAIN-SUFFIX,api.monzo.co.uk
@@ -14,6 +14,8 @@ DOMAIN-SUFFIX,vuk-gto.prod.ondemandconnectivity.com
 DOMAIN-SUFFIX,ee.co.uk
 #Wise
 DOMAIN-SUFFIX,wise.com
+#Zero
+DOMAIN-SUFFIX,zero.co.uk
 
 # 域名后缀匹配
 #UK-wifi-call VOXI
