@@ -23,6 +23,8 @@ DOMAIN-SUFFIX,bybitglobal.com
 DOMAIN-SUFFIX,jbybit.com
 #bybit交易所客服系统
 DOMAIN-SUFFIX,ada.support
+#ipfoxy代理
+DOMAIN-SUFFIX,ipfoxy.net
 
 # 域名后缀匹配
 #bybit交易所
