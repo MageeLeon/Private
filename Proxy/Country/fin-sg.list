@@ -25,6 +25,9 @@ DOMAIN-SUFFIX,jbybit.com
 DOMAIN-SUFFIX,ada.support
 #ipfoxy代理
 DOMAIN-SUFFIX,ipfoxy.net
+#dtcpay代理
+DOMAIN-SUFFIX,dtcpay.com
+DOMAIN-SUFFIX,digitalcardservice.com
 
 # 域名后缀匹配
 #bybit交易所
