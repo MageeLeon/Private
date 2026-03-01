@@ -19,6 +19,8 @@ DOMAIN-SUFFIX,bybit.eu
 DOMAIN-SUFFIX,bycsi.com
 DOMAIN-SUFFIX,ffbbbdc6d3c353211fe2ba39c9f744cd.com
 DOMAIN-SUFFIX,ffe390afd658c19dcbf707e0597b846d.de
+#德国vodafone
+DOMAIN-SUFFIX,vodafone.de
 
 # 域名后缀匹配
 #DOMAIN,client.messaging.adobe.com
