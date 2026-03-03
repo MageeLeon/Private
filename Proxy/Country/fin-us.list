@@ -14,6 +14,8 @@ DOMAIN-SUFFIX,ss.epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
 DOMAIN-SUFFIX,depdg.epc.mnc260.mcc310.pub.3gppnetwork.org
 DOMAIN-SUFFIX,redirect.ultra.me
 DOMAIN-SUFFIX,ultramobile.com
+#美国tello
+DOMAIN-SUFFIX,tello.com
 
 # 域名后缀匹配
 #DOMAIN,client.messaging.adobe.com
