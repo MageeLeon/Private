@@ -26,6 +26,8 @@ DOMAIN-SUFFIX,ipfoxy.net
 #dtcpay代理
 DOMAIN-SUFFIX,dtcpay.com
 DOMAIN-SUFFIX,digitalcardservice.com
+#proxmox代理
+DOMAIN-SUFFIX,proxmox.com
 
 # 域名后缀匹配
 #bybit交易所
