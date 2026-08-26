@@ -27,6 +27,7 @@ DOMAIN-SUFFIX,psu.edu
 DOMAIN-KEYWORD,t-mobile
 
 # DOMAIN-WILDCARD 通配符匹配
+#DOMAIN-WILDCARD,login-*.psu.edu
 
 # DOMAIN-REGEX 正则表达式匹配
 
