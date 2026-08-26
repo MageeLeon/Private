@@ -28,6 +28,7 @@ DOMAIN-SUFFIX,vodafone.de
 DOMAIN-KEYWORD,n26
 
 # DOMAIN-WILDCARD 通配符匹配
+#DOMAIN-WILDCARD,login-*.psu.edu
 
 # DOMAIN-REGEX 正则表达式匹配
 
