@@ -15,6 +15,7 @@ DOMAIN-SUFFIX,ss.epdg.epc.geo.mnc000.mcc454.pub.3gppnetwork.org
 #DOMAIN-KEYWORD,baidu
 
 # DOMAIN-WILDCARD 通配符匹配
+#DOMAIN-WILDCARD,login-*.psu.edu
 
 # DOMAIN-REGEX 正则表达式匹配
 
