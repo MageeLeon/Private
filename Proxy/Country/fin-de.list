@@ -1,6 +1,6 @@
 # 国家-德国补充列表
 
-# 域名顶级后缀匹配
+# DOMAIN-SUFFIX 域名后缀
 #德国n26
 DOMAIN-SUFFIX,n26.com
 DOMAIN-SUFFIX,tech26.de
@@ -20,12 +20,16 @@ DOMAIN-SUFFIX,bycsi.com
 #德国vodafone
 DOMAIN-SUFFIX,vodafone.de
 
-# 域名后缀匹配
+# DOMAIN 域名精确等于
 #DOMAIN,client.messaging.adobe.com
 
-# 域名关键字匹配
+# DOMAIN-KEYWORD 域名包含关键字
 #德国n26
 DOMAIN-KEYWORD,n26
+
+# DOMAIN-WILDCARD 通配符匹配
+
+# DOMAIN-REGEX 正则表达式匹配
 
 # IP段匹配
 #IP-CIDR,219.146.1.66/32,no-resolve
