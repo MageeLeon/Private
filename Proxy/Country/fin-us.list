@@ -16,6 +16,8 @@ DOMAIN-SUFFIX,redirect.ultra.me
 DOMAIN-SUFFIX,ultramobile.com
 #美国tello
 DOMAIN-SUFFIX,tello.com
+#宾夕法尼亚州立大学
+DOMAIN-SUFFIX,psu.edu
 
 # 域名后缀匹配
 #DOMAIN,client.messaging.adobe.com
