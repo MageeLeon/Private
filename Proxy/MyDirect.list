@@ -7,7 +7,7 @@
 #DOMAIN,speed.cloudflare.com
 
 # DOMAIN-KEYWORD 域名包含关键字
-#DOMAIN-KEYWORD,baidu
+DOMAIN-KEYWORD,netsarang
 
 # DOMAIN-WILDCARD 通配符匹配
 #DOMAIN-WILDCARD,login-*.psu.edu
