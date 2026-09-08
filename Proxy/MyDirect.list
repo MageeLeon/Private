@@ -1,6 +1,7 @@
 # 自定义白名单补充列表
 
 # DOMAIN-SUFFIX 域名后缀
+#DOMAIN-SUFFIX,liveperson.net
 
 # DOMAIN 域名精确等于
 #DOMAIN,speed.cloudflare.com
