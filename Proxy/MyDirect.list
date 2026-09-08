@@ -1,14 +1,6 @@
 # 自定义白名单补充列表
 
 # DOMAIN-SUFFIX 域名后缀
-#德国n26
-DOMAIN-SUFFIX,liveperson.net
-DOMAIN-SUFFIX,lpsnmedia.net
-DOMAIN-SUFFIX,featureassets.org
-DOMAIN-SUFFIX,idp.liveperson.net
-DOMAIN-SUFFIX,lo.idp.liveperson.net
-DOMAIN-SUFFIX,adsense.google.com
-DOMAIN-SUFFIX,adsense.payouts.hyperwallet.com
 
 # DOMAIN 域名精确等于
 #DOMAIN,speed.cloudflare.com
