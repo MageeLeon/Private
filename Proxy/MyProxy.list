@@ -1,20 +1,6 @@
 # 自定义特殊代理补充列表
 
 # DOMAIN-SUFFIX 域名后缀
-DOMAIN-SUFFIX,tiger-code.com
-DOMAIN-SUFFIX,tiger-info.com
-DOMAIN-SUFFIX,tiger-motion.com
-DOMAIN-SUFFIX,tiger2doudou.com
-DOMAIN-SUFFIX,tigerbbs.com
-DOMAIN-SUFFIX,tigerbrokers.com
-DOMAIN-SUFFIX,tigerbrokers.net
-DOMAIN-SUFFIX,tigerdns.com
-DOMAIN-SUFFIX,tigeresop.com
-DOMAIN-SUFFIX,tigerfintech.com
-DOMAIN-SUFFIX,tigermed.net
-DOMAIN-SUFFIX,tigermedgrp.com
-DOMAIN-SUFFIX,tigersecurities.com
-DOMAIN-SUFFIX,tigeryun.com
 DOMAIN-SUFFIX,mobitel.lk
 DOMAIN-SUFFIX,sltmobitel.lk
 DOMAIN-SUFFIX,banknav.com
