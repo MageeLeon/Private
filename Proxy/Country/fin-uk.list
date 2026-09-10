@@ -13,7 +13,7 @@ DOMAIN-SUFFIX,vuk-gto.prod.ondemandconnectivity.com
 #UK-wifi-call CTE
 DOMAIN-SUFFIX,ee.co.uk
 #英国信用查询
-DOMAIN-SUFFIX,experian.co
+DOMAIN-SUFFIX,experian.co.uk
 
 # DOMAIN 域名精确等于
 #UK-wifi-call VOXI
