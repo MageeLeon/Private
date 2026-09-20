@@ -1,9 +1,9 @@
 # 国家-新加坡补充列表
 
 # DOMAIN-SUFFIX 域名后缀
-#Ready卡
+#Ready
 DOMAIN-SUFFIX,ready.co
-#bybit交易所
+#bybit
 DOMAIN-SUFFIX,bybit.biz
 DOMAIN-SUFFIX,bybit.com
 DOMAIN-SUFFIX,bycsi.com
@@ -23,7 +23,7 @@ DOMAIN-SUFFIX,jbybit.com
 DOMAIN-SUFFIX,ada.support
 #ipfoxy代理
 DOMAIN-SUFFIX,ipfoxy.net
-#dtcpay代理
+#dtcpay
 DOMAIN-SUFFIX,dtcpay.com
 DOMAIN-SUFFIX,digitalcardservice.com
 #proxmox代理
@@ -32,7 +32,7 @@ DOMAIN-SUFFIX,proxmox.com
 DOMAIN-SUFFIX,stripe.com
 
 # DOMAIN 域名精确等于
-#bybit交易所
+#bybit
 DOMAIN,bybit-exchange.github.io
 DOMAIN,app-measurement.com
 DOMAIN,bybit.ada.support
