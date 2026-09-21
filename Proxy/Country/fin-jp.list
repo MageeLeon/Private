@@ -32,4 +32,11 @@ DOMAIN-SUFFIX,ada.support
 # DOMAIN-REGEX 正则表达式匹配
 
 # IP段匹配
-#IP-CIDR,219.146.1.66/32,no-resolve
+#bybit交易所
+IP-CIDR,13.32.121.6/32,no-resolve 
+IP-CIDR,43.133.238.145/32,no-resolve
+IP-CIDR,13.33.187.108/32,no-resolve
+IP-CIDR,150.109.230.182/32,no-resolve
+IP-CIDR,142.251.215.234/32,no-resolve
+IP-CIDR,43.133.241.84/32,no-resolve
+IP-CIDR,3.160.150.37/32,no-resolve
