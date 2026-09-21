@@ -20,9 +20,6 @@ DOMAIN-SUFFIX,featureassets.org
 DOMAIN-SUFFIX,idp.liveperson.net
 DOMAIN-SUFFIX,lo.idp.liveperson.net
 DOMAIN-SUFFIX,adsense.payouts.hyperwallet.com
-#欧区bybit
-DOMAIN-SUFFIX,bybit.eu
-DOMAIN-SUFFIX,bycsi.com
 #德国vodafone
 DOMAIN-SUFFIX,vodafone.de
 
