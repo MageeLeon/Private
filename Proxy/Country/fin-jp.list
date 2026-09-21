@@ -1,7 +1,24 @@
 # 国家-日本补充列表
 
 # DOMAIN-SUFFIX 域名后缀
-#DOMAIN-SUFFIX,n26.com
+#bybit
+DOMAIN-SUFFIX,bybit.biz
+DOMAIN-SUFFIX,bybit.com
+DOMAIN-SUFFIX,bycsi.com
+DOMAIN-SUFFIX,bytick.com
+DOMAIN-SUFFIX,byapis.com
+DOMAIN-SUFFIX,bycbe.com
+DOMAIN-SUFFIX,bymj.io
+DOMAIN-SUFFIX,byabcde.com
+DOMAIN-SUFFIX,byapps.net
+DOMAIN-SUFFIX,byd3c3.com
+DOMAIN-SUFFIX,bybdc6.com
+DOMAIN-SUFFIX,appsflyer.com
+DOMAIN-SUFFIX,bybit.cloud
+DOMAIN-SUFFIX,bybitglobal.com
+DOMAIN-SUFFIX,jbybit.com
+#bybit交易所客服系统
+DOMAIN-SUFFIX,ada.support
 
 # DOMAIN 域名精确等于
 #DOMAIN,client.messaging.adobe.com
