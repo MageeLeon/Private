@@ -39,10 +39,6 @@ DOMAIN-SUFFIX,addr.tools
 DOMAIN-SUFFIX,ifconfig.me
 DOMAIN-SUFFIX,ip125.com
 DOMAIN-SUFFIX,skk.moe
-DOMAIN-SUFFIX,ip111.cn
-DOMAIN-SUFFIX,ping0.cc
-DOMAIN-SUFFIX,ip.sb
-DOMAIN-SUFFIX,ipify.org
 DOMAIN-SUFFIX,whoer.com
 DOMAIN-SUFFIX,whatismyip.com.tw
 DOMAIN-SUFFIX,whatismyip.com
@@ -52,9 +48,14 @@ DOMAIN-SUFFIX,ip2proxy.com
 DOMAIN-SUFFIX,vpnapi.io
 DOMAIN-SUFFIX,l.google.com
 
+DOMAIN-SUFFIX,ip111.cn
+DOMAIN-SUFFIX,ping0.cc
+DOMAIN-SUFFIX,ip.sb
+DOMAIN-SUFFIX,ipify.org
 DOMAIN-SUFFIX,ping0.cc
 DOMAIN-SUFFIX,ipdata.co
 DOMAIN-SUFFIX,ip.net.coffee
+DOMAIN-SUFFIX,ip.cx
 
 # DOMAIN 域名精确等于
 #DOMAIN,client.messaging.adobe.com
