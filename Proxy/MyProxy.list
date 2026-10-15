@@ -143,6 +143,7 @@ DOMAIN-SUFFIX,colaotc.com
 
 # DOMAIN 域名精确等于
 DOMAIN,shuzijumin.com
+DOMAIN,mirror.ourhost.az
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,netsarang
