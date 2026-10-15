@@ -7,12 +7,12 @@ DOMAIN-SUFFIX,banknav.com
 DOMAIN-SUFFIX,yohomobile.com
 DOMAIN-SUFFIX,flashid.net
 DOMAIN-SUFFIX,kitesim.co
+DOMAIN-SUFFIX,clubsim.com.hk
 
 DOMAIN-SUFFIX,argent-api.com
 DOMAIN-SUFFIX,infura.io
 DOMAIN-SUFFIX,customer.io
 DOMAIN-SUFFIX,argent.net
-DOMAIN-SUFFIX,clubsim.com.hk
 DOMAIN-SUFFIX,shuzijumin.com
 DOMAIN-SUFFIX,ai-genesis.app
 
@@ -53,18 +53,11 @@ DOMAIN-SUFFIX,plex.tv
 DOMAIN-SUFFIX,ip111.cn
 DOMAIN-SUFFIX,ipinfo.io
 DOMAIN-SUFFIX,ip-score.com
-DOMAIN-SUFFIX,dnsleaktest.com
 DOMAIN-SUFFIX,asiassn.com
-DOMAIN-SUFFIX,ipleak.net
-DOMAIN-SUFFIX,browserleaks.com
-DOMAIN-SUFFIX,browserleaks.org
-DOMAIN-SUFFIX,browserleaks.net
-DOMAIN-SUFFIX,surfsharkdns.com
 DOMAIN-SUFFIX,llgjc1.com
 DOMAIN-SUFFIX,qichiyu.com
 DOMAIN-SUFFIX,hsy88.org
 DOMAIN-SUFFIX,xn--mes358acgm99l.com
-DOMAIN-SUFFIX,dnsleaktest.org
 DOMAIN-SUFFIX,nmnm.fun
 DOMAIN-SUFFIX,extrabux.com
 DOMAIN-SUFFIX,wallvpn.com
@@ -76,12 +69,10 @@ DOMAIN-SUFFIX,streetfighter.com
 DOMAIN-SUFFIX,capcom.com
 DOMAIN-SUFFIX,fcdn.sk
 DOMAIN-SUFFIX,kooink.com
-DOMAIN-SUFFIX,nodeseek.com
 DOMAIN-SUFFIX,socialchain.app
 DOMAIN-SUFFIX,onesignal.com
 DOMAIN-SUFFIX,coinglass.com
 DOMAIN-SUFFIX,fiverr.com
-DOMAIN-SUFFIX,ebay.com
 DOMAIN-SUFFIX,kjfx.cc
 DOMAIN-SUFFIX,hlive.io
 DOMAIN-SUFFIX,ndmdhs.com
@@ -125,17 +116,7 @@ DOMAIN-SUFFIX,abcproxy.com
 DOMAIN-SUFFIX,piliapp.com
 DOMAIN-SUFFIX,meijutt.cc
 DOMAIN-SUFFIX,piaohua.com
-DOMAIN-SUFFIX,ip-api.com
-DOMAIN-SUFFIX,browserscan.net
-DOMAIN-SUFFIX,ipify.org
-DOMAIN-SUFFIX,dnscheck.tools
 DOMAIN-SUFFIX,arin.net
-DOMAIN-SUFFIX,null-addr.com
-DOMAIN-SUFFIX,null-addr.net
-DOMAIN-SUFFIX,null-addr.org
-DOMAIN-SUFFIX,null-addr.biz
-DOMAIN-SUFFIX,null-addr.info
-DOMAIN-SUFFIX,addr.tools
 DOMAIN-SUFFIX,bulianglin.com
 DOMAIN-SUFFIX,coincola.com
 DOMAIN-SUFFIX,coincolacdn.com
