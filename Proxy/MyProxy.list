@@ -143,7 +143,38 @@ DOMAIN-SUFFIX,colaotc.com
 
 # DOMAIN 域名精确等于
 DOMAIN,shuzijumin.com
+# Rocky 当前候选镜像
+DOMAIN,ftp.iij.ad.jp
+DOMAIN,ftp.jaist.ac.jp
+DOMAIN,ftp.kaist.ac.kr
+DOMAIN,ftp.yz.yamagata-u.ac.jp
+DOMAIN,in.mirrors.cicku.me
+DOMAIN,mirror.dc.uz
+DOMAIN,mirror.hashy0917.net
+DOMAIN,mirror.krfoss.org
+DOMAIN,mirror.maeen.sa
+DOMAIN,mirror.nevacloud.com
 DOMAIN,mirror.ourhost.az
+DOMAIN,mirror.ps.kz
+DOMAIN,mirror.twds.com.tw
+DOMAIN,mirror.wonchan.net
+DOMAIN,mirror.yer.az
+DOMAIN,mirror1.isoc.org.il
+DOMAIN,mirror5.krfoss.org
+DOMAIN,mirrors.esto.network
+DOMAIN,mirrors.ipserverone.com
+DOMAIN,rocky-linux-asia-east1.production.gcp.mirrors.ctrliq.cloud
+DOMAIN,rocky-linux-asia-east2.production.gcp.mirrors.ctrliq.cloud
+DOMAIN,rocky-linux-asia-northeast1.production.gcp.mirrors.ctrliq.cloud
+DOMAIN,rocky-linux-asia-northeast2.production.gcp.mirrors.ctrliq.cloud
+DOMAIN,rocky-linux-asia-northeast3.production.gcp.mirrors.ctrliq.cloud
+DOMAIN,rocky-linux-asia-south1.production.gcp.mirrors.ctrliq.cloud
+DOMAIN,rocky-linux-asia-south2.production.gcp.mirrors.ctrliq.cloud
+DOMAIN,rocky-linux-asia-southeast1.production.gcp.mirrors.ctrliq.cloud
+DOMAIN,rocky-linux-asia-southeast2.production.gcp.mirrors.ctrliq.cloud
+DOMAIN,rocky-linux-me-west1.production.gcp.mirrors.ctrliq.cloud
+DOMAIN,rocky.mirror.thegigabit.com
+DOMAIN,sa.mirrors.cicku.me
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,netsarang
