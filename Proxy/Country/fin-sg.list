@@ -5,9 +5,6 @@
 DOMAIN-SUFFIX,ready.co
 #ipfoxy代理
 DOMAIN-SUFFIX,ipfoxy.net
-#dtcpay
-DOMAIN-SUFFIX,dtcpay.com
-DOMAIN-SUFFIX,digitalcardservice.com
 #proxmox代理
 DOMAIN-SUFFIX,proxmox.com
 #stripe
